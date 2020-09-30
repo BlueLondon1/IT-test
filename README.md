@@ -1,6 +1,6 @@
 # IT-test
 
-chkdsk <directory>: /R /F /X
+chkdsk directory: /R /F /X
 
 SFC /SCANNOW 
 
