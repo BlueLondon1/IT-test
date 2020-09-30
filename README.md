@@ -1,5 +1,8 @@
 # IT-test
 
+-- > diskpart (enter diskpart mode)
+--> list disk (show all disk)
+
 chkdsk directory: /R /F /X
 
 SFC /SCANNOW 
